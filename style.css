@@ -1,0 +1,228 @@
+body{
+background-color:black;
+padding:0px;
+margin:0px;
+padding:10px
+
+}
+
+.banner{
+	height:80px;
+	padding:10px
+}
+
+.banner_left{
+	width:37%;
+	height:50px;
+	float:left;
+	padding:17px;
+
+}
+
+.banner_left img{
+	float:left;
+	margin-right:13px;
+	width:180px
+}
+
+#seperator{
+	padding-top:2px;
+	font-size:20px;
+	color:white;
+	font-family:tahoma
+
+}
+
+.banner_right{
+height:50px;
+padding:5px;
+width:40%;
+float:right;
+
+
+}
+
+.banner_right ul li{
+display:inline-block;
+color:white;
+font-family:tahoma;
+margin-right:10px;
+font-weight:bold;
+padding:4px;
+font-size:12px;
+letter-spacing:0.5px
+
+}
+
+#get_started{
+	border:2px solid light brown;
+	border-radius:4px;
+	background-color:#eeeeee;
+	color:grey
+
+
+}
+
+
+#banner_phone{
+	color:white;
+	float:right;
+	font-family:tahoma;
+	font-size:18px
+
+}
+
+
+
+.welcome_wrapper_div{
+	background-color:white;
+	font-family:Source Sans pro;
+	padding-bottom:3px
+
+
+}
+
+
+.hero_div{
+	width:960px;
+	margin:auto;
+	height:600px
+	
+}
+
+.hero_div1{
+	background:url("images/hero.jpg") 20%;
+	height:600px
+	
+}
+
+.get_paid_on_time{
+	height:200px;
+	width:22%;
+	position:absolute;
+	margin-top:130px ;
+	margin-left:50px;
+
+
+}
+
+#get_paid_on_time_head{
+	font-size:30px;
+	color:white;
+	font-family:arial
+
+}
+
+
+#get_paid_content{
+	color:white;
+	font-size:14px;
+	font-family:arial;
+
+}
+
+#get_paid_link{
+	margin-top:15px;
+	padding:0px
+
+}
+
+#get_paid_link a{
+	text-decoration:none;
+	color:grey;
+	background-color:white;
+	display:inline-block;
+	padding:10px;
+	font-family:tahoma;
+	border-radius:5px;
+	font-weight:bold;
+	width:35%;
+	font-size:54%;
+	text-align:center
+
+}
+
+.start_free_trial{
+	background-color:#eeeeee !important;
+	color:grey !important;
+
+}
+
+.beneath_hero_div{
+	text-align:center;
+	background-color:#eeeeee;
+	height:250px;
+	max-width:60%;
+	padding-top:60px;
+	margin:auto;
+	
+}
+
+
+.beneath_hero_div1{
+width:100%;
+background-color:#eeeeee	
+}
+
+
+.abtdivs{
+	width:30%;
+	height:200px;
+	float:left;
+	background-color:#eeeeee;
+	margin:2.33px;
+	padding:5px
+
+}
+
+
+
+.abtdivs h4{
+	font-size:14px;
+	text-align:left;
+	font-family:tahoma;
+	font-weight:0.2em;
+	color:black;
+	width:100%;
+
+
+}
+
+.rule hr{
+	background-color:gold;
+	color:gold;
+	border:1px solid gold
+}
+
+.rule{
+	width:45%
+}
+
+.abtcontent{
+	text-align:justify;
+	font-family:tahoma;
+	font-size:12px;
+	width:85%;
+	
+
+}
+
+.footer_div{
+	height:70px;
+	background-color:white;
+	text-align:center;
+	color:black;
+	font-size:20px;
+	padding:60px
+
+}
+
+.inner_foot_div{
+	width:40%;
+	margin:auto;
+	font-size:24px
+}
+
+
+
+
