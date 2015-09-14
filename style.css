@@ -1,7 +1,7 @@
 body{
 background-color:black;
+padding:0px;
 margin:0px;
-padding:10px
 
 }
 
@@ -24,7 +24,7 @@ padding:10px
 	width:180px
 }
 
-#seperator{
+.seperator{
 	padding-top:2px;
 	font-size:20px;
 	color:white;
@@ -53,10 +53,9 @@ letter-spacing:0.5px
 
 }
 
-#get_started{
-	border:2px solid light brown;
+.get_started{
+	border:1px solid gold;
 	border-radius:4px;
-	background-color:#eeeeee;
 	color:grey
 
 
@@ -105,7 +104,7 @@ letter-spacing:0.5px
 
 }
 
-#get_paid_on_time_head{
+.get_paid_on_time_head{
 	font-size:30px;
 	color:white;
 	font-family:arial
@@ -113,20 +112,20 @@ letter-spacing:0.5px
 }
 
 
-#get_paid_content{
+.get_paid_content{
 	color:white;
 	font-size:14px;
 	font-family:arial;
 
 }
 
-#get_paid_link{
+.get_paid_link{
 	margin-top:15px;
 	padding:0px
 
 }
 
-#get_paid_link a{
+.get_paid_link a{
 	text-decoration:none;
 	color:grey;
 	background-color:white;
@@ -142,16 +141,21 @@ letter-spacing:0.5px
 }
 
 .start_free_trial{
-	background-color:#eeeeee !important;
+	background-color:#E0F4F4 !important;
 	color:grey !important;
 
 }
 
+.watch_free_video{
+	background-color:#444444 !important;
+	color:white !important;
+}
+
 .beneath_hero_div{
 	text-align:center;
-	background-color:#eeeeee;
+	background-color:#E0F4F4;
 	height:250px;
-	max-width:60%;
+	width:960px;
 	padding-top:60px;
 	margin:auto;
 	
@@ -160,17 +164,16 @@ letter-spacing:0.5px
 
 .beneath_hero_div1{
 width:100%;
-background-color:#eeeeee	
+background-color:#E0F4F4	
 }
 
 
 .abtdivs{
-	width:30%;
+	width:33%;
 	height:200px;
 	float:left;
-	background-color:#eeeeee;
-	margin:2.33px;
-	padding:5px
+	background-color:#E0F4F4;
+
 
 }
 
@@ -185,16 +188,15 @@ background-color:#eeeeee
 	width:100%;
 
 
+
 }
 
-.rule hr{
-	background-color:gold;
-	color:gold;
-	border:1px solid gold
-}
 
 .rule{
-	width:45%
+	width:50%;
+	border:1px solid gold;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 
 .abtcontent{
@@ -202,6 +204,8 @@ background-color:#eeeeee
 	font-family:tahoma;
 	font-size:12px;
 	width:85%;
+	text-transform: capitalize
+
 	
 
 }
@@ -212,16 +216,30 @@ background-color:#eeeeee
 	text-align:center;
 	color:black;
 	font-size:20px;
-	padding:60px
+	padding:60px;
+
+
+}
+
+.footer_div img{
+position:absolute;
+margin-top:-90px;
+
 
 }
 
 .inner_foot_div{
-	width:40%;
 	margin:auto;
-	font-size:24px
+	font-size:24px;
+	width:960px;
+	background-color:white;
 }
 
 
+.inner_foot_div p{
+	width:60%;
+	margin:auto;
+
+} 
 
 
