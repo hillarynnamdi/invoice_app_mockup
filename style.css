@@ -11,10 +11,10 @@ margin:0px;
 }
 
 .banner_left{
-	width:37%;
+	width:35%;
 	height:50px;
 	float:left;
-	padding:17px;
+	padding:19px;
 
 }
 
@@ -27,7 +27,7 @@ margin:0px;
 .seperator{
 	padding-top:2px;
 	font-size:20px;
-	color:white;
+	color:silver;
 	font-family:tahoma
 
 }
@@ -49,24 +49,27 @@ margin-right:10px;
 font-weight:bold;
 padding:4px;
 font-size:12px;
-letter-spacing:0.5px
+letter-spacing:0.5px;
+border:0px solid grey;
 
 }
 
 .get_started{
 	border:1px solid gold;
 	border-radius:4px;
-	color:grey
+	color:grey;
 
 
 }
 
 
 #banner_phone{
-	color:white;
+	color:silver;
 	float:right;
 	font-family:tahoma;
-	font-size:18px
+	font-size:12px;
+	font-weight:bold;
+	padding-top:4px;
 
 }
 
@@ -74,7 +77,7 @@ letter-spacing:0.5px
 
 .welcome_wrapper_div{
 	background-color:white;
-	font-family:Source Sans pro;
+	font-family:Source Sans;
 	padding-bottom:3px
 
 
@@ -89,7 +92,7 @@ letter-spacing:0.5px
 }
 
 .hero_div1{
-	background:url("images/hero.jpg") 20%;
+	background:url("images/hero.jpg") bottom left;
 	height:600px
 	
 }
@@ -115,7 +118,7 @@ letter-spacing:0.5px
 .get_paid_content{
 	color:white;
 	font-size:14px;
-	font-family:arial;
+	font-family:tahoma;
 
 }
 
@@ -132,17 +135,17 @@ letter-spacing:0.5px
 	display:inline-block;
 	padding:10px;
 	font-family:tahoma;
-	border-radius:5px;
+	border-radius:2px;
 	font-weight:bold;
-	width:35%;
+	width:38%;
 	font-size:54%;
 	text-align:center
 
 }
 
 .start_free_trial{
-	background-color:#E0F4F4 !important;
-	color:grey !important;
+	background-color:#6699FF !important;
+	color:white !important;
 
 }
 
@@ -178,6 +181,21 @@ background-color:#E0F4F4
 }
 
 
+.img_div{
+
+	width:100%;
+	clear:right;
+	height:55px;
+
+}
+
+.img_div img{
+
+	float:left;
+	
+}
+
+
 
 .abtdivs h4{
 	font-size:14px;
@@ -204,14 +222,15 @@ background-color:#E0F4F4
 	font-family:tahoma;
 	font-size:12px;
 	width:85%;
-	text-transform: capitalize
+	text-transform: capitalize;
+	color:grey;
 
 	
 
 }
 
 .footer_div{
-	height:70px;
+	height:120px;
 	background-color:white;
 	text-align:center;
 	color:black;
